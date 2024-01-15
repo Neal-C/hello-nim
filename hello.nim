@@ -1,3 +1,3 @@
-echo "Got a new coding setup ! "
+echo "Flex. 😎"
 
-echo "Huh? Why are coding in nim ? => Interview me ! 😁"
+echo "Let the records show that I was coding in Nim before it was cool & maintsream. 😏"
